@@ -1,6 +1,6 @@
 ## Hello World!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-27-blue)
 
@@ -43,10 +43,10 @@ Minggu                   0 commits           ░░░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Python                   3 hrs 3 mins        █████████████░░░░░░░░░░░░   52.33 % 
-PHP                      1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   28.63 % 
-Blade Template           54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Python                   3 hrs 3 mins        █████████████░░░░░░░░░░░░   52.69 % 
+PHP                      1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+Blade Template           54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 
@@ -65,5 +65,5 @@ HTML                     2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2025 01:56:40 UTC
+ Last Updated on 17/08/2025 02:08:12 UTC
 <!--END_SECTION:waka-->
