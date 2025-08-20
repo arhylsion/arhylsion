@@ -43,11 +43,11 @@ Minggu                   0 commits           ░░░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Python                   3 hrs 3 mins        █████████████░░░░░░░░░░░░   52.69 % 
-PHP                      1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-Blade Template           54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Python                   3 hrs 3 mins        █████████████░░░░░░░░░░░░   53.10 % 
+PHP                      1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+Blade Template           54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -65,5 +65,5 @@ HTML                     2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2025 01:55:42 UTC
+ Last Updated on 20/08/2025 01:53:59 UTC
 <!--END_SECTION:waka-->
