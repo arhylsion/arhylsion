@@ -1,6 +1,6 @@
 ## Hello World!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
 
@@ -43,11 +43,11 @@ Minggu                   1 commits           █░░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Python                   1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   30.47 % 
-JavaScript               1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-HTML                     1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
-PHP                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-CSS                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Python                   1 hr 30 mins        ██████████░░░░░░░░░░░░░░░   39.81 % 
+JavaScript               1 hr 10 mins        ████████░░░░░░░░░░░░░░░░░   30.98 % 
+PHP                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+HTML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Bash                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -65,5 +65,5 @@ CSS                      2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2025 01:55:04 UTC
+ Last Updated on 01/09/2025 02:05:30 UTC
 <!--END_SECTION:waka-->
