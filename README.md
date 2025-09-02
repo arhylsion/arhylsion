@@ -6,7 +6,7 @@
 
 **🐱 Dataku di GitHub** 
 
-> 📦 266.2 kB Digunakan di GitHub Storage 
+> 📦 268.6 kB Digunakan di GitHub Storage 
  > 
 > 🏆 22 Kontribusi pada 2025
  > 
@@ -14,26 +14,26 @@
  > 
 > 📜 5 Repositori publik 
  > 
-> 🔑 6 Repositori pribadi 
+> 🔑 7 Repositori pribadi 
  > 
 **Aku orangnya nokturnal 🦉** 
 
 ```text
-🌞 Pagi                   6 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-🌆 Siang                  5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-🌃 Petang                 20 commits          █████████████░░░░░░░░░░░░   51.28 % 
-🌙 Malam                  8 commits           █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+🌞 Pagi                   6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+🌆 Siang                  5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+🌃 Petang                 26 commits          ██████████████░░░░░░░░░░░   57.78 % 
+🌙 Malam                  8 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
 ```
 📅 **Paling produktif saat Kamis** 
 
 ```text
-Senin                    3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Selasa                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Rabu                     7 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Kamis                    18 commits          ████████████░░░░░░░░░░░░░   46.15 % 
-Jumat                    5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Sabtu                    4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Minggu                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Senin                    9 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Selasa                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Rabu                     7 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Kamis                    18 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
+Jumat                    5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Sabtu                    4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Minggu                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
@@ -43,19 +43,20 @@ Minggu                   1 commits           █░░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Python                   1 hr 30 mins        ██████████░░░░░░░░░░░░░░░   39.81 % 
-JavaScript               1 hr 10 mins        ████████░░░░░░░░░░░░░░░░░   30.98 % 
-PHP                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-HTML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-Bash                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+JavaScript               2 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   39.18 % 
+PHP                      1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+Python                   1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
+Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
 
 ```text
-PHP                      4 repos             ███████████░░░░░░░░░░░░░░   44.44 % 
-HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-CSS                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+PHP                      4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+CSS                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
@@ -65,5 +66,5 @@ CSS                      2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2025 02:05:30 UTC
+ Last Updated on 02/09/2025 01:51:41 UTC
 <!--END_SECTION:waka-->
