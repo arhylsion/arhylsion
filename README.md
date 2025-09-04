@@ -8,8 +8,6 @@
 
 > 📦 268.6 kB Digunakan di GitHub Storage 
  > 
-> 🏆 22 Kontribusi pada 2025
- > 
 > 🚫 Tidak sedang bisa dipekerjakan
  > 
 > 📜 5 Repositori publik 
@@ -43,11 +41,11 @@ Minggu                   1 commits           █░░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-JavaScript               2 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   41.13 % 
-Python                   1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
-PHP                      1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+JavaScript               2 hrs 25 mins       ██████████████░░░░░░░░░░░   57.54 % 
+PHP                      1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+Bash                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Git Config               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Blade Template           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -66,5 +64,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2025 01:44:01 UTC
+ Last Updated on 04/09/2025 01:44:41 UTC
 <!--END_SECTION:waka-->
