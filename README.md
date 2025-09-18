@@ -1,5 +1,7 @@
 ## Hello World!
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2034%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
 
 **🐱 Dataku di GitHub** 
@@ -30,5 +32,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2025 01:45:09 UTC
+ Last Updated on 18/09/2025 01:44:58 UTC
 <!--END_SECTION:waka-->
