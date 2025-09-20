@@ -1,7 +1,5 @@
 ## Hello World!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2036%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
 
 **🐱 Dataku di GitHub** 
@@ -16,40 +14,6 @@
  > 
 > 🔑 6 Repositori pribadi 
  > 
-**Aku orangnya nokturnal 🦉** 
-
-```text
-🌞 Pagi                   6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-🌆 Siang                  5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-🌃 Petang                 27 commits          ███████████████░░░░░░░░░░   58.70 % 
-🌙 Malam                  8 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-```
-📅 **Paling produktif saat Kamis** 
-
-```text
-Senin                    9 commits           █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-Selasa                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Rabu                     7 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Kamis                    18 commits          ██████████░░░░░░░░░░░░░░░   39.13 % 
-Jumat                    6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Sabtu                    4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Minggu                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-```
-
-
-📊 **Minggu ini menghabiskan waktu di** 
-
-```text
-🕑︎ Zona waktu: Asia/Jakarta
-
-💬 Bahasa: 
-Python                   48 mins             ██████████████████████░░░   89.50 % 
-Text                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-PHP                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-```
-
 **Kebanyakan menulis dalam bahasa PHP** 
 
 ```text
@@ -66,5 +30,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2025 01:48:10 UTC
+ Last Updated on 20/09/2025 01:43:42 UTC
 <!--END_SECTION:waka-->
