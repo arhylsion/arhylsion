@@ -16,40 +16,6 @@
  > 
 > 🔑 6 Repositori pribadi 
  > 
-**Aku orangnya nokturnal 🦉** 
-
-```text
-🌞 Pagi                   6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-🌆 Siang                  5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-🌃 Petang                 27 commits          ███████████████░░░░░░░░░░   58.70 % 
-🌙 Malam                  8 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-```
-📅 **Paling produktif saat Kamis** 
-
-```text
-Senin                    9 commits           █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-Selasa                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Rabu                     7 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Kamis                    18 commits          ██████████░░░░░░░░░░░░░░░   39.13 % 
-Jumat                    6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Sabtu                    4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Minggu                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-```
-
-
-📊 **Minggu ini menghabiskan waktu di** 
-
-```text
-🕑︎ Zona waktu: Asia/Jakarta
-
-💬 Bahasa: 
-Python                   33 mins             █████████████████████░░░░   85.45 % 
-Text                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-PHP                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-```
-
 **Kebanyakan menulis dalam bahasa PHP** 
 
 ```text
@@ -66,5 +32,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2025 01:55:22 UTC
+ Last Updated on 24/09/2025 01:47:19 UTC
 <!--END_SECTION:waka-->
