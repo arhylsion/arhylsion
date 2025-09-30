@@ -1,39 +1,39 @@
 ## Hello World!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
 
 **🐱 Dataku di GitHub** 
 
-> 📦 270.4 kB Digunakan di GitHub Storage 
+> 📦 274.6 kB Digunakan di GitHub Storage 
  > 
-> 🏆 28 Kontribusi pada 2025
+> 🏆 30 Kontribusi pada 2025
  > 
 > 🚫 Tidak sedang bisa dipekerjakan
  > 
-> 📜 6 Repositori publik 
+> 📜 7 Repositori publik 
  > 
 > 🔑 7 Repositori pribadi 
  > 
 **Aku orangnya nokturnal 🦉** 
 
 ```text
-🌞 Pagi                   8 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-🌆 Siang                  5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-🌃 Petang                 27 commits          ██████████████░░░░░░░░░░░   56.25 % 
-🌙 Malam                  8 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌞 Pagi                   8 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+🌆 Siang                  6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+🌃 Petang                 27 commits          ██████████████░░░░░░░░░░░   55.10 % 
+🌙 Malam                  8 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
 ```
 📅 **Paling produktif saat Kamis** 
 
 ```text
-Senin                    9 commits           █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Selasa                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Rabu                     7 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Kamis                    18 commits          █████████░░░░░░░░░░░░░░░░   37.50 % 
-Jumat                    8 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Sabtu                    4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Minggu                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Senin                    10 commits          █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+Selasa                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Rabu                     7 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Kamis                    18 commits          █████████░░░░░░░░░░░░░░░░   36.73 % 
+Jumat                    8 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Sabtu                    4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Minggu                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 
@@ -43,20 +43,20 @@ Minggu                   1 commits           █░░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-HTML                     2 hrs 34 mins       ██████████████░░░░░░░░░░░   57.80 % 
-JavaScript               29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Docker                   28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-EJS                      27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+HTML                     3 hrs 52 mins       █████████████████░░░░░░░░   67.05 % 
+JavaScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Docker                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+EJS                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 ```
 
-**Kebanyakan menulis dalam bahasa PHP** 
+**Kebanyakan menulis dalam bahasa HTML** 
 
 ```text
-PHP                      4 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
-HTML                     3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-JavaScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-CSS                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+HTML                     4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+PHP                      4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+CSS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
 
@@ -66,5 +66,5 @@ CSS                      2 repos             █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2025 01:50:23 UTC
+ Last Updated on 30/09/2025 01:45:09 UTC
 <!--END_SECTION:waka-->
