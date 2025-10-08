@@ -1,6 +1,6 @@
 ## Hello World!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-10-blue)
 
@@ -43,24 +43,24 @@ Minggu                   1 commits           ░░░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-HTML                     5 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   35.37 % 
-Python                   5 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   32.78 % 
-JavaScript               2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-CSS                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Python                   5 hrs 12 mins       ███████████░░░░░░░░░░░░░░   43.13 % 
+HTML                     4 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   34.33 % 
+JavaScript               1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Git Config               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editor: 
-VS Code                  15 hrs 38 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 4 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-rafatek                  6 hrs 40 mins       ███████████░░░░░░░░░░░░░░   42.64 % 
-animein                  5 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   36.33 % 
-fustk                    2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-client                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-arhylsion                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+animein                  5 hrs 45 mins       ████████████░░░░░░░░░░░░░   47.72 % 
+rafatek                  4 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   39.86 % 
+fustk                    1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+supabase                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 💻 Sistem Operasi: 
-Windows                  15 hrs 38 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa HTML** 
@@ -80,5 +80,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2025 01:46:15 UTC
+ Last Updated on 08/10/2025 01:46:36 UTC
 <!--END_SECTION:waka-->
