@@ -1,6 +1,6 @@
 ## Hello World!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-10-blue)
 
@@ -43,23 +43,22 @@ Minggu                   1 commits           ░░░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-HTML                     2 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   39.19 % 
-Python                   1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   26.76 % 
-JavaScript               1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-CSS                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+HTML                     2 hrs 10 mins       ████████████░░░░░░░░░░░░░   48.74 % 
+JavaScript               1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   31.31 % 
+Python                   43 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editor: 
-VS Code                  7 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-rafatek                  3 hrs 27 mins       ████████████░░░░░░░░░░░░░   46.26 % 
-animein                  2 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   31.39 % 
-fustk                    1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-portofolio               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+rafatek                  2 hrs 21 mins       █████████████░░░░░░░░░░░░   52.80 % 
+fustk                    1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   30.86 % 
+animein                  43 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
 
 💻 Sistem Operasi: 
-Windows                  7 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa HTML** 
@@ -79,5 +78,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2025 01:47:51 UTC
+ Last Updated on 11/10/2025 01:43:20 UTC
 <!--END_SECTION:waka-->
