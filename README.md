@@ -6,9 +6,9 @@
 
 **🐱 Dataku di GitHub** 
 
-> 📦 270.5 kB Digunakan di GitHub Storage 
+> 📦 8.0 kB Digunakan di GitHub Storage 
  > 
-> 🏆 41 Kontribusi pada 2025
+> 🏆 42 Kontribusi pada 2025
  > 
 > 🚫 Tidak sedang bisa dipekerjakan
  > 
@@ -19,21 +19,21 @@
 **Aku orangnya nokturnal 🦉** 
 
 ```text
-🌞 Pagi                   8 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-🌆 Siang                  12 commits          ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-🌃 Petang                 25 commits          ████████████░░░░░░░░░░░░░   47.17 % 
-🌙 Malam                  8 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+🌞 Pagi                   6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+🌆 Siang                  12 commits          ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+🌃 Petang                 20 commits          ███████████░░░░░░░░░░░░░░   43.48 % 
+🌙 Malam                  8 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
 ```
 📅 **Paling produktif saat Kamis** 
 
 ```text
-Senin                    5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Selasa                   6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Rabu                     12 commits          ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-Kamis                    17 commits          ████████░░░░░░░░░░░░░░░░░   32.08 % 
-Jumat                    9 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Sabtu                    3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Minggu                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Senin                    3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Selasa                   6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Rabu                     12 commits          ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+Kamis                    14 commits          ████████░░░░░░░░░░░░░░░░░   30.43 % 
+Jumat                    9 commits           █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+Sabtu                    1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Minggu                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 
@@ -43,32 +43,34 @@ Minggu                   1 commits           ░░░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-HTML                     2 hrs 10 mins       ████████████░░░░░░░░░░░░░   48.74 % 
-JavaScript               1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   31.31 % 
-Python                   43 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+HTML                     2 hrs               █████████░░░░░░░░░░░░░░░░   36.48 % 
+JavaScript               1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   28.94 % 
+Python                   1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 🔥 Editor: 
-VS Code                  4 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-rafatek                  2 hrs 21 mins       █████████████░░░░░░░░░░░░   52.80 % 
-fustk                    1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   30.86 % 
-animein                  43 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+rafatek                  1 hr 45 mins        ████████░░░░░░░░░░░░░░░░░   31.79 % 
+fustk                    1 hr 44 mins        ████████░░░░░░░░░░░░░░░░░   31.56 % 
+mp-tool                  1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+animein                  33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+gotripz                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 💻 Sistem Operasi: 
-Windows                  4 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa HTML** 
 
 ```text
-HTML                     4 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
+HTML                     3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
 PHP                      3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Python                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
 CSS                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
 JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
@@ -78,5 +80,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2025 01:43:20 UTC
+ Last Updated on 12/10/2025 01:51:15 UTC
 <!--END_SECTION:waka-->
