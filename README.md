@@ -1,6 +1,6 @@
 ## Hello World!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
 
@@ -43,24 +43,24 @@ Minggu                   3 commits           █░░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Python                   3 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   33.89 % 
-PHP                      2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-HTML                     2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-JSON                     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+PHP                      5 hrs 7 mins        ███████████░░░░░░░░░░░░░░   43.17 % 
+Python                   3 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+HTML                     1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+JSON                     1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+SQL                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🔥 Editor: 
-VS Code                  11 hrs              █████████████████████████   100.00 % 
+VS Code                  11 hrs 52 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-tele                     3 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.95 % 
-closure                  2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-cafe                     1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-mp-tool                  1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-fiber_master             41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+closure                  4 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   39.21 % 
+tele                     3 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   31.47 % 
+cafe                     1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+fiber_master             41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+MP-tools                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 
 💻 Sistem Operasi: 
-Windows                  11 hrs              █████████████████████████   100.00 % 
+Windows                  11 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -80,5 +80,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2025 01:43:37 UTC
+ Last Updated on 19/10/2025 02:00:44 UTC
 <!--END_SECTION:waka-->
