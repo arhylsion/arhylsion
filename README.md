@@ -43,24 +43,24 @@ Minggu                   6 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-PHP                      6 hrs 54 mins       ██████████████████████░░░   86.98 % 
-JSON                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-SQL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+PHP                      5 hrs 6 mins        ███████████████████████░░   90.09 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🔥 Editor: 
-VS Code                  7 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-closure                  6 hrs 26 mins       ████████████████████░░░░░   81.06 % 
-fiber_master             41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-dudi                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-tele                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-lumiforge                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+closure                  5 hrs 6 mins        ███████████████████████░░   90.09 % 
+dudi                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+walk                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+lumiforge                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+portofolio               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 💻 Sistem Operasi: 
-Windows                  7 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -80,5 +80,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2025 01:50:33 UTC
+ Last Updated on 24/10/2025 01:46:41 UTC
 <!--END_SECTION:waka-->
