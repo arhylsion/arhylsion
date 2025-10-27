@@ -1,6 +1,6 @@
 ## Hello World!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
 
@@ -43,22 +43,21 @@ Minggu                   6 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-PHP                      2 hrs 57 mins       █████████████████████░░░░   85.07 % 
-SQL                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Dart                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+PHP                      2 hrs 58 mins       ██████████████████████░░░   86.01 % 
+Dart                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+SQL                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Swift                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editor: 
-VS Code                  3 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-closure                  3 hrs 6 mins        ██████████████████████░░░   89.46 % 
-walk                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-lumiforge                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+closure                  3 hrs 7 mins        ███████████████████████░░   90.44 % 
+walk                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
 
 💻 Sistem Operasi: 
-Windows                  3 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -78,5 +77,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2025 01:57:01 UTC
+ Last Updated on 27/10/2025 02:01:19 UTC
 <!--END_SECTION:waka-->
