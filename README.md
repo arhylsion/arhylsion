@@ -43,21 +43,21 @@ Minggu                   6 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-PHP                      2 hrs 58 mins       ██████████████████████░░░   86.01 % 
-Dart                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-SQL                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Swift                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+PHP                      2 hrs 36 mins       █████████████████████░░░░   84.39 % 
+Dart                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+SQL                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Swift                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editor: 
-VS Code                  3 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 5 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-closure                  3 hrs 7 mins        ███████████████████████░░   90.44 % 
-walk                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+closure                  2 hrs 45 mins       ██████████████████████░░░   89.33 % 
+walk                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
 
 💻 Sistem Operasi: 
-Windows                  3 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -77,5 +77,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2025 02:01:19 UTC
+ Last Updated on 28/10/2025 01:50:44 UTC
 <!--END_SECTION:waka-->
