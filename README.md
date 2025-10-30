@@ -43,21 +43,22 @@ Minggu                   6 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-PHP                      1 hr 10 mins        ██████████████████░░░░░░░   70.94 % 
-Dart                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-SQL                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-Swift                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+PHP                      1 hr 10 mins        █████████████████░░░░░░░░   69.98 % 
+Dart                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+SQL                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🔥 Editor: 
-VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 40 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-closure                  1 hr 19 mins        ████████████████████░░░░░   80.14 % 
-walk                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+closure                  1 hr 19 mins        ████████████████████░░░░░   79.08 % 
+walk                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+cv                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 💻 Sistem Operasi: 
-Windows                  1 hr 39 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 40 mins        █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -77,5 +78,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2025 01:57:43 UTC
+ Last Updated on 30/10/2025 01:57:09 UTC
 <!--END_SECTION:waka-->
