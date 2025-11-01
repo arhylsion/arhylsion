@@ -43,22 +43,20 @@ Minggu                   6 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-PHP                      1 hr 10 mins        ██████████████████░░░░░░░   73.99 % 
-SQL                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Dart                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Python                   25 mins             ████████████░░░░░░░░░░░░░   46.85 % 
+PHP                      19 mins             █████████░░░░░░░░░░░░░░░░   36.40 % 
+SQL                      9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
 
 🔥 Editor: 
-VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
+VS Code                  54 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-closure                  1 hr 19 mins        █████████████████████░░░░   83.61 % 
-walk                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-cv                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+closure                  29 mins             █████████████░░░░░░░░░░░░   53.15 % 
+devaccto                 24 mins             ███████████░░░░░░░░░░░░░░   44.48 % 
+cv                       1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 💻 Sistem Operasi: 
-Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
+Windows                  54 mins             █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -78,5 +76,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2025 01:53:50 UTC
+ Last Updated on 01/11/2025 01:57:07 UTC
 <!--END_SECTION:waka-->
