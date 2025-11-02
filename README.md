@@ -1,7 +1,5 @@
 ## Hello World!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2055%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
 
 **🐱 Dataku di GitHub** 
@@ -16,49 +14,6 @@
  > 
 > 🔑 6 Repositori pribadi 
  > 
-**Aku orangnya diurnal 🐤** 
-
-```text
-🌞 Pagi                   23 commits          ████████░░░░░░░░░░░░░░░░░   31.51 % 
-🌆 Siang                  17 commits          ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-🌃 Petang                 25 commits          █████████░░░░░░░░░░░░░░░░   34.25 % 
-🌙 Malam                  8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-```
-📅 **Paling produktif saat Jumat** 
-
-```text
-Senin                    6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Selasa                   8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Rabu                     12 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Kamis                    17 commits          ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-Jumat                    18 commits          ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
-Sabtu                    6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Minggu                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-```
-
-
-📊 **Minggu ini menghabiskan waktu di** 
-
-```text
-🕑︎ Zona waktu: Asia/Jakarta
-
-💬 Bahasa: 
-Python                   25 mins             ████████████░░░░░░░░░░░░░   46.85 % 
-PHP                      19 mins             █████████░░░░░░░░░░░░░░░░   36.40 % 
-SQL                      9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-
-🔥 Editor: 
-VS Code                  54 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Proyek: 
-closure                  29 mins             █████████████░░░░░░░░░░░░   53.15 % 
-devaccto                 24 mins             ███████████░░░░░░░░░░░░░░   44.48 % 
-cv                       1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-
-💻 Sistem Operasi: 
-Windows                  54 mins             █████████████████████████   100.00 % 
-```
-
 **Kebanyakan menulis dalam bahasa PHP** 
 
 ```text
@@ -76,5 +31,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2025 01:57:07 UTC
+ Last Updated on 02/11/2025 01:59:43 UTC
 <!--END_SECTION:waka-->
