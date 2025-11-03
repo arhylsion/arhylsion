@@ -14,6 +14,47 @@
  > 
 > 🔑 6 Repositori pribadi 
  > 
+**Aku orangnya diurnal 🐤** 
+
+```text
+🌞 Pagi                   23 commits          ████████░░░░░░░░░░░░░░░░░   31.51 % 
+🌆 Siang                  17 commits          ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+🌃 Petang                 25 commits          █████████░░░░░░░░░░░░░░░░   34.25 % 
+🌙 Malam                  8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+```
+📅 **Paling produktif saat Jumat** 
+
+```text
+Senin                    6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Selasa                   8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Rabu                     12 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Kamis                    17 commits          ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+Jumat                    18 commits          ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+Sabtu                    6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Minggu                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+```
+
+
+📊 **Minggu ini menghabiskan waktu di** 
+
+```text
+🕑︎ Zona waktu: Asia/Jakarta
+
+💬 Bahasa: 
+Python                   2 hrs 30 mins       █████████████████████████   99.21 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+
+🔥 Editor: 
+VS Code                  2 hrs 31 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Proyek: 
+devaccto                 2 hrs 29 mins       █████████████████████████   99.14 % 
+cv                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+
+💻 Sistem Operasi: 
+Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
+```
+
 **Kebanyakan menulis dalam bahasa PHP** 
 
 ```text
@@ -31,5 +72,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2025 01:59:43 UTC
+ Last Updated on 03/11/2025 01:59:08 UTC
 <!--END_SECTION:waka-->
