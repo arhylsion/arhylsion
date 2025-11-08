@@ -43,17 +43,17 @@ Minggu                   6 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Python                   2 hrs 28 mins       █████████████████████████   99.21 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Python                   2 hrs 4 mins        █████████████████████████   99.05 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🔥 Editor: 
-VS Code                  2 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 5 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-devaccto                 2 hrs 29 mins       █████████████████████████   100.00 % 
+devaccto                 2 hrs 5 mins        █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Windows                  2 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -73,5 +73,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 07/11/2025 01:54:44 UTC
+ Last Updated on 08/11/2025 01:48:19 UTC
 <!--END_SECTION:waka-->
