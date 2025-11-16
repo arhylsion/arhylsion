@@ -1,7 +1,5 @@
 ## Hello World!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2030%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
 
 **🐱 Dataku di GitHub** 
@@ -43,18 +41,16 @@ Minggu                   6 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-JavaScript               4 mins              ██████████████████████░░░   89.19 % 
-CSS                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Tidak ada aktivitas dilacak minggu Ini
 
 🔥 Editor: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+Tidak ada aktivitas dilacak minggu Ini
 
 🐱‍💻 Proyek: 
-3d-portofolio            4 mins              █████████████████████████   100.00 % 
+Tidak ada aktivitas dilacak minggu Ini
 
 💻 Sistem Operasi: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Tidak ada aktivitas dilacak minggu Ini
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -74,5 +70,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2025 01:52:12 UTC
+ Last Updated on 16/11/2025 02:02:02 UTC
 <!--END_SECTION:waka-->
