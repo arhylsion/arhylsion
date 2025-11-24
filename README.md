@@ -43,16 +43,19 @@ Minggu                   6 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Tidak ada aktivitas dilacak minggu Ini
+Python                   7 mins              ███████████████░░░░░░░░░░   59.62 % 
+JSON                     4 mins              ██████████░░░░░░░░░░░░░░░   39.93 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editor: 
-Tidak ada aktivitas dilacak minggu Ini
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-Tidak ada aktivitas dilacak minggu Ini
+dudi                     12 mins             █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Tidak ada aktivitas dilacak minggu Ini
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -72,5 +75,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2025 02:09:42 UTC
+ Last Updated on 24/11/2025 02:03:35 UTC
 <!--END_SECTION:waka-->
