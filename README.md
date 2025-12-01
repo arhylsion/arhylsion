@@ -43,20 +43,18 @@ Minggu                   6 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Python                   20 mins             ████████████████████░░░░░   80.19 % 
-JSON                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Python                   2 hrs 1 min         █████████████████████████   99.98 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editor: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-corvide                  12 mins             █████████████░░░░░░░░░░░░   50.94 % 
-dudi                     12 mins             ████████████░░░░░░░░░░░░░   49.06 % 
+telebot-dw               1 hr 46 mins        ██████████████████████░░░   87.94 % 
+corvide                  14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
 
 💻 Sistem Operasi: 
-Windows                  25 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -76,5 +74,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2025 02:08:17 UTC
+ Last Updated on 01/12/2025 02:22:20 UTC
 <!--END_SECTION:waka-->
