@@ -43,18 +43,16 @@ Minggu                   6 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Python                   2 hrs 1 min         █████████████████████████   99.98 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   1 hr 46 mins        █████████████████████████   100.00 % 
 
 🔥 Editor: 
-VS Code                  2 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-telebot-dw               1 hr 46 mins        ██████████████████████░░░   87.94 % 
-corvide                  14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+telebot-dw               1 hr 46 mins        █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -74,5 +72,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 03/12/2025 01:58:29 UTC
+ Last Updated on 04/12/2025 01:59:35 UTC
 <!--END_SECTION:waka-->
