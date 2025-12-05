@@ -43,16 +43,20 @@ Minggu                   6 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Python                   1 hr 46 mins        █████████████████████████   100.00 % 
+Python                   1 hr 46 mins        ██████████████████████░░░   86.80 % 
+PHP                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Blade Template           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🔥 Editor: 
-VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-telebot-dw               1 hr 46 mins        █████████████████████████   100.00 % 
+telebot-dw               1 hr 46 mins        ██████████████████████░░░   86.80 % 
+kasir_uprak              16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
 
 💻 Sistem Operasi: 
-Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -72,5 +76,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 04/12/2025 01:59:35 UTC
+ Last Updated on 05/12/2025 01:59:55 UTC
 <!--END_SECTION:waka-->
