@@ -43,23 +43,23 @@ Minggu                   6 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Python                   2 hrs 22 mins       ██████████████████████░░░   88.84 % 
-PHP                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Blade Template           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Blade Template           1 hr 18 mins        ████████████░░░░░░░░░░░░░   47.59 % 
+PHP                      43 mins             ███████░░░░░░░░░░░░░░░░░░   26.57 % 
+Python                   35 mins             █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editor: 
-VS Code                  2 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-telebot-dw               1 hr 46 mins        █████████████████░░░░░░░░   66.79 % 
-marble                   30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-kasir_uprak              16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-New folder               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+MyKasir                  1 hr 51 mins        █████████████████░░░░░░░░   67.68 % 
+marble                   30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+kasir_uprak              16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+New folder               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 
 💻 Sistem Operasi: 
-Windows                  2 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -79,5 +79,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 07/12/2025 02:08:44 UTC
+ Last Updated on 08/12/2025 02:00:48 UTC
 <!--END_SECTION:waka-->
