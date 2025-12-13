@@ -43,23 +43,19 @@ Minggu                   6 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Blade Template           1 hr 18 mins        ████████████░░░░░░░░░░░░░   47.59 % 
-PHP                      43 mins             ███████░░░░░░░░░░░░░░░░░░   26.57 % 
-Python                   35 mins             █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Blade Template           1 hr 14 mins        █████████████████░░░░░░░░   67.05 % 
+PHP                      34 mins             ████████░░░░░░░░░░░░░░░░░   31.26 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editor: 
-VS Code                  2 hrs 44 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 51 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-MyKasir                  1 hr 51 mins        █████████████████░░░░░░░░   67.68 % 
-marble                   30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-kasir_uprak              16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-New folder               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+MyKasir                  1 hr 51 mins        █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Windows                  2 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -79,5 +75,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 12/12/2025 02:02:59 UTC
+ Last Updated on 13/12/2025 01:56:18 UTC
 <!--END_SECTION:waka-->
