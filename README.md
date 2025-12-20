@@ -43,17 +43,18 @@ Minggu                   6 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Blade Template           1 min               ███████████████████████░░   90.69 % 
-PHP                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+PHP                      3 mins              ██████████████████░░░░░░░   70.19 % 
+Blade Template           1 min               ███████░░░░░░░░░░░░░░░░░░   29.81 % 
 
 🔥 Editor: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-MyKasir                  1 min               █████████████████████████   100.00 % 
+closure                  3 mins              █████████████████░░░░░░░░   67.13 % 
+MyKasir                  1 min               ████████░░░░░░░░░░░░░░░░░   32.87 % 
 
 💻 Sistem Operasi: 
-Windows                  1 min               █████████████████████████   100.00 % 
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -73,5 +74,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 19/12/2025 02:02:26 UTC
+ Last Updated on 20/12/2025 01:56:00 UTC
 <!--END_SECTION:waka-->
