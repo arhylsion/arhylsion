@@ -1,6 +1,6 @@
 ## Hello World!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
 
@@ -43,18 +43,16 @@ Minggu                   6 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-PHP                      3 mins              ██████████████████░░░░░░░   70.19 % 
-Blade Template           1 min               ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+PHP                      3 mins              █████████████████████████   100.00 % 
 
 🔥 Editor: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-closure                  3 mins              █████████████████░░░░░░░░   67.13 % 
-MyKasir                  1 min               ████████░░░░░░░░░░░░░░░░░   32.87 % 
+closure                  3 mins              █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -74,5 +72,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2025 01:56:00 UTC
+ Last Updated on 21/12/2025 02:09:22 UTC
 <!--END_SECTION:waka-->
