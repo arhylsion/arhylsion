@@ -1,7 +1,5 @@
 ## Hello World!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2031%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
 
 **🐱 Dataku di GitHub** 
@@ -16,45 +14,6 @@
  > 
 > 🔑 6 Repositori pribadi 
  > 
-**Aku orangnya diurnal 🐤** 
-
-```text
-🌞 Pagi                   23 commits          ████████░░░░░░░░░░░░░░░░░   31.51 % 
-🌆 Siang                  17 commits          ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-🌃 Petang                 25 commits          █████████░░░░░░░░░░░░░░░░   34.25 % 
-🌙 Malam                  8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-```
-📅 **Paling produktif saat Jumat** 
-
-```text
-Senin                    6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Selasa                   8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Rabu                     12 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Kamis                    17 commits          ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-Jumat                    18 commits          ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
-Sabtu                    6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Minggu                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-```
-
-
-📊 **Minggu ini menghabiskan waktu di** 
-
-```text
-🕑︎ Zona waktu: Asia/Jakarta
-
-💬 Bahasa: 
-Tidak ada aktivitas dilacak minggu Ini
-
-🔥 Editor: 
-Tidak ada aktivitas dilacak minggu Ini
-
-🐱‍💻 Proyek: 
-Tidak ada aktivitas dilacak minggu Ini
-
-💻 Sistem Operasi: 
-Tidak ada aktivitas dilacak minggu Ini
-```
-
 **Kebanyakan menulis dalam bahasa PHP** 
 
 ```text
@@ -72,5 +31,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 02:06:48 UTC
+ Last Updated on 03/01/2026 01:59:46 UTC
 <!--END_SECTION:waka-->
