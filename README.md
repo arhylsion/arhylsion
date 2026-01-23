@@ -43,16 +43,17 @@ Minggu                   6 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Tidak ada aktivitas dilacak minggu Ini
+PHP                      1 hr 36 mins        █████████████████████████   99.78 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editor: 
-Tidak ada aktivitas dilacak minggu Ini
+VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-Tidak ada aktivitas dilacak minggu Ini
+laravel-api              1 hr 36 mins        █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Tidak ada aktivitas dilacak minggu Ini
+Windows                  1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -72,5 +73,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 22/01/2026 02:12:17 UTC
+ Last Updated on 23/01/2026 02:07:45 UTC
 <!--END_SECTION:waka-->
