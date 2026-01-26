@@ -43,18 +43,20 @@ Minggu                   6 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-PHP                      1 hr 36 mins        █████████████████████████   99.51 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+PHP                      1 hr 36 mins        ███████████████████████░░   91.70 % 
+AutoHotkey               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editor: 
-VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 44 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-laravel-api              1 hr 36 mins        █████████████████████████   99.73 % 
-school-event             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+laravel-api              1 hr 36 mins        ███████████████████████░░   91.90 % 
+Unknown Project          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+school-event             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Sistem Operasi: 
-Windows                  1 hr 36 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -74,5 +76,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 25/01/2026 02:25:12 UTC
+ Last Updated on 26/01/2026 02:24:05 UTC
 <!--END_SECTION:waka-->
