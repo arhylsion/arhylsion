@@ -1,6 +1,6 @@
 ## Hello World!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue?style=flat)
 
@@ -43,20 +43,23 @@ Minggu                   6 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-PHP                      1 hr 36 mins        ███████████████████████░░   91.70 % 
-AutoHotkey               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+PHP                      1 hr 36 mins        ██████████████████░░░░░░░   73.36 % 
+Python                   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+AutoHotkey               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+CSV                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editor: 
-VS Code                  1 hr 44 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-laravel-api              1 hr 36 mins        ███████████████████████░░   91.90 % 
-Unknown Project          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-school-event             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+laravel-api              1 hr 36 mins        ██████████████████░░░░░░░   73.52 % 
+Classification_ulasan-neg26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Unknown Project          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+school-event             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Sistem Operasi: 
-Windows                  1 hr 44 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -76,5 +79,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 26/01/2026 02:24:05 UTC
+ Last Updated on 27/01/2026 02:20:49 UTC
 <!--END_SECTION:waka-->
