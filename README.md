@@ -43,23 +43,23 @@ Minggu                   6 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-PHP                      1 hr 36 mins        ██████████████████░░░░░░░   73.36 % 
-Python                   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-AutoHotkey               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-CSV                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+PHP                      36 mins             ████████████░░░░░░░░░░░░░   49.48 % 
+Python                   22 mins             ████████░░░░░░░░░░░░░░░░░   30.49 % 
+AutoHotkey               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+CSV                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🔥 Editor: 
-VS Code                  2 hrs 10 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-laravel-api              1 hr 36 mins        ██████████████████░░░░░░░   73.52 % 
-Classification_ulasan-neg26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Unknown Project          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-school-event             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+laravel-api              38 mins             █████████████░░░░░░░░░░░░   52.33 % 
+Classification_ulasan-neg26 mins             █████████░░░░░░░░░░░░░░░░   36.01 % 
+Unknown Project          8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+school-event             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Sistem Operasi: 
-Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -79,5 +79,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 29/01/2026 02:32:27 UTC
+ Last Updated on 30/01/2026 02:32:36 UTC
 <!--END_SECTION:waka-->
