@@ -1,7 +1,5 @@
 ## Hello World!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue?style=flat)
 
 **🐱 Dataku di GitHub** 
@@ -43,21 +41,19 @@ Minggu                   6 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-PHP                      44 mins             █████████████████░░░░░░░░   67.00 % 
-Blade Template           11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-AutoHotkey               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+PHP                      44 mins             ███████████████████░░░░░░   76.45 % 
+Blade Template           11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🔥 Editor: 
-VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
+VS Code                  58 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-laravel-api              38 mins             ██████████████░░░░░░░░░░░   57.22 % 
-school-event             20 mins             ████████░░░░░░░░░░░░░░░░░   30.42 % 
-Unknown Project          8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+laravel-api              38 mins             ████████████████░░░░░░░░░   65.29 % 
+school-event             20 mins             █████████░░░░░░░░░░░░░░░░   34.71 % 
 
 💻 Sistem Operasi: 
-Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
+Windows                  58 mins             █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -77,5 +73,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 02:53:28 UTC
+ Last Updated on 02/02/2026 02:42:33 UTC
 <!--END_SECTION:waka-->
