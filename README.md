@@ -43,22 +43,22 @@ Minggu                   6 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-PHP                      44 mins             ███████████░░░░░░░░░░░░░░   43.04 % 
-Python                   43 mins             ███████████░░░░░░░░░░░░░░   42.38 % 
-Blade Template           11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+PHP                      1 hr 51 mins        ████████████████░░░░░░░░░   65.41 % 
+Python                   44 mins             ███████░░░░░░░░░░░░░░░░░░   26.35 % 
+Blade Template           11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editor: 
-VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-wowo                     45 mins             ███████████░░░░░░░░░░░░░░   43.70 % 
-laravel-api              38 mins             █████████░░░░░░░░░░░░░░░░   36.76 % 
-school-event             20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+laravel-api              1 hr 43 mins        ███████████████░░░░░░░░░░   60.93 % 
+wowo                     46 mins             ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+school-event             20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
 
 💻 Sistem Operasi: 
-Windows                  1 hr 43 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -78,5 +78,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2026 02:35:25 UTC
+ Last Updated on 06/02/2026 02:35:30 UTC
 <!--END_SECTION:waka-->
