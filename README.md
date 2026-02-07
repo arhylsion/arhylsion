@@ -1,6 +1,6 @@
 ## Hello World!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue?style=flat)
 
@@ -43,22 +43,22 @@ Minggu                   6 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-PHP                      1 hr 51 mins        ████████████████░░░░░░░░░   65.41 % 
-Python                   44 mins             ███████░░░░░░░░░░░░░░░░░░   26.35 % 
-Blade Template           11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+PHP                      2 hrs 10 mins       ██████████████████░░░░░░░   73.48 % 
+Python                   44 mins             ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Blade Template           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editor: 
-VS Code                  2 hrs 49 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 58 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-laravel-api              1 hr 43 mins        ███████████████░░░░░░░░░░   60.93 % 
-wowo                     46 mins             ███████░░░░░░░░░░░░░░░░░░   27.16 % 
-school-event             20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+laravel-api              1 hr 43 mins        ███████████████░░░░░░░░░░   58.10 % 
+wowo                     46 mins             ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+school-event             28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
 
 💻 Sistem Operasi: 
-Windows                  2 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -78,5 +78,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 06/02/2026 02:35:30 UTC
+ Last Updated on 07/02/2026 02:31:02 UTC
 <!--END_SECTION:waka-->
