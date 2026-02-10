@@ -43,22 +43,19 @@ Minggu                   6 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-PHP                      2 hrs 10 mins       ██████████████████░░░░░░░   73.48 % 
-Python                   44 mins             ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-Blade Template           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+PHP                      2 hrs 10 mins       █████████████████████████   99.17 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Blade Template           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editor: 
-VS Code                  2 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-laravel-api              1 hr 43 mins        ███████████████░░░░░░░░░░   58.10 % 
-wowo                     46 mins             ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
-school-event             28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+laravel-api              1 hr 43 mins        ████████████████████░░░░░   78.42 % 
+school-event             28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
 
 💻 Sistem Operasi: 
-Windows                  2 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
@@ -78,5 +75,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 09/02/2026 02:43:35 UTC
+ Last Updated on 10/02/2026 02:52:13 UTC
 <!--END_SECTION:waka-->
