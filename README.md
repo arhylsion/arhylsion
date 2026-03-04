@@ -1,6 +1,6 @@
 ## Hello World!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue?style=flat)
 
@@ -43,23 +43,24 @@ Minggu                   4 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Python                   5 hrs 6 mins        ███████████████░░░░░░░░░░   59.18 % 
-HTML                     1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-JavaScript               1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Python                   5 hrs 13 mins       ██████████████░░░░░░░░░░░   56.14 % 
+HTML                     1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+JavaScript               1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 🔥 Editor: 
-VS Code                  8 hrs 38 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-animeinAPI               3 hrs 51 mins       ███████████░░░░░░░░░░░░░░   44.69 % 
-portofolio               2 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   33.14 % 
-chainai                  1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-animein                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+animeinAPI               3 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   41.49 % 
+portofolio               2 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.77 % 
+chainai                  1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+museic                   39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+animein                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 
 💻 Sistem Operasi: 
-Windows                  8 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa Python** 
@@ -79,5 +80,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 03/03/2026 02:39:40 UTC
+ Last Updated on 04/03/2026 02:32:06 UTC
 <!--END_SECTION:waka-->
