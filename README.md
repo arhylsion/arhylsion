@@ -43,24 +43,23 @@ Minggu                   4 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Python                   5 hrs 13 mins       ██████████████░░░░░░░░░░░   56.14 % 
-HTML                     1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-JavaScript               1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Python                   5 hrs 13 mins       ████████████████████░░░░░   81.10 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+HTML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 🔥 Editor: 
-VS Code                  9 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-animeinAPI               3 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   41.49 % 
-portofolio               2 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.77 % 
-chainai                  1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-museic                   39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-animein                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+animeinAPI               3 hrs 51 mins       ███████████████░░░░░░░░░░   59.93 % 
+chainai                  1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+museic                   39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+animein                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 
 💻 Sistem Operasi: 
-Windows                  9 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa Python** 
@@ -80,5 +79,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 07/03/2026 02:26:40 UTC
+ Last Updated on 08/03/2026 02:39:08 UTC
 <!--END_SECTION:waka-->
