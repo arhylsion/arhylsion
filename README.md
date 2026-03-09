@@ -43,23 +43,22 @@ Minggu                   4 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Python                   5 hrs 13 mins       ████████████████████░░░░░   81.10 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-HTML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Python                   3 hrs 51 mins       ████████████████████░░░░░   79.38 % 
+HTML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editor: 
-VS Code                  6 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 51 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-animeinAPI               3 hrs 51 mins       ███████████████░░░░░░░░░░   59.93 % 
-chainai                  1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
-museic                   39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-animein                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+animeinAPI               3 hrs 51 mins       ████████████████████░░░░░   79.59 % 
+museic                   39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+animein                  19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 
 💻 Sistem Operasi: 
-Windows                  6 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa Python** 
@@ -79,5 +78,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2026 02:39:08 UTC
+ Last Updated on 09/03/2026 02:40:29 UTC
 <!--END_SECTION:waka-->
