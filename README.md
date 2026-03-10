@@ -43,22 +43,20 @@ Minggu                   4 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Python                   3 hrs 51 mins       ████████████████████░░░░░   79.38 % 
-HTML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+HTML                     19 mins             ████████████░░░░░░░░░░░░░   47.95 % 
+Markdown                 10 mins             ███████░░░░░░░░░░░░░░░░░░   26.86 % 
+Python                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Text                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editor: 
-VS Code                  4 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  39 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-animeinAPI               3 hrs 51 mins       ████████████████████░░░░░   79.59 % 
-museic                   39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-animein                  19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+museic                   39 mins             █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Windows                  4 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  39 mins             █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa Python** 
@@ -78,5 +76,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 09/03/2026 02:40:29 UTC
+ Last Updated on 10/03/2026 02:31:47 UTC
 <!--END_SECTION:waka-->
