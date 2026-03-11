@@ -43,20 +43,18 @@ Minggu                   4 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-HTML                     19 mins             ████████████░░░░░░░░░░░░░   47.95 % 
-Markdown                 10 mins             ███████░░░░░░░░░░░░░░░░░░   26.86 % 
-Python                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Text                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+PHP                      44 mins             ███████████████████░░░░░░   75.71 % 
+Blade Template           10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Bash                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 
 🔥 Editor: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+VS Code                  58 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-museic                   39 mins             █████████████████████████   100.00 % 
+kotak_aspirasi           58 mins             █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Windows                  39 mins             █████████████████████████   100.00 % 
+Windows                  58 mins             █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa Python** 
@@ -76,5 +74,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2026 02:31:47 UTC
+ Last Updated on 11/03/2026 02:30:49 UTC
 <!--END_SECTION:waka-->
