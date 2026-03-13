@@ -43,18 +43,19 @@ Minggu                   4 commits           ██░░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-PHP                      44 mins             ███████████████████░░░░░░   75.71 % 
-Blade Template           10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Bash                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+PHP                      51 mins             ██████████████████░░░░░░░   72.35 % 
+Blade Template           15 mins             ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 
 🔥 Editor: 
-VS Code                  58 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-kotak_aspirasi           58 mins             █████████████████████████   100.00 % 
+kotak_aspirasi           58 mins             █████████████████████░░░░   82.46 % 
+school-event             12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
 
 💻 Sistem Operasi: 
-Windows                  58 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa Python** 
@@ -74,5 +75,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arhylsion/arhylsion/master/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2026 02:36:53 UTC
+ Last Updated on 13/03/2026 02:34:46 UTC
 <!--END_SECTION:waka-->
