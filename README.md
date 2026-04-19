@@ -5,7 +5,6 @@
 🌌 [**亜星羅**](//athallahr.my.id) / *アタラ* / *Atala*  
 🛰️ lang: `id`, `en`  
 
-  ""***Look at the sky.***  
 _「星に想いを。」_  
 
 <pre><code>curl -fsSL https://cutt.ly/arhylsion | bash</code></pre>
