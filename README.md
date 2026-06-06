@@ -18,3 +18,6 @@ _「星に想いを。」_
 </td>
 </tr>
 </table>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

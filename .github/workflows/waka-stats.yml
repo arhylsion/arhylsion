@@ -1,25 +1,34 @@
-name: Update README with WakaTime Stats
+name: Waka Goal Update
 
 on:
-  schedule:
-    - cron: '0 0 * * *' # jalan setiap hari pukul 00:00 UTC
   workflow_dispatch:
+  schedule:
+    - cron: "0 */2 * * *"
+  push:
+    branches: [master, main]
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
-    name: Update README
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: WakaTime Stats
-        uses: anmol098/waka-readme-stats@master
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Update README
+        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_TIMEZONE: "True"
-          SHOW_LINES_OF_CODE: "False"
-          SHOW_TOTAL_CODE_TIME: "True"
-          LOCALE: "id"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python update_waka.py
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update WakaTime Goal Stats" && git push)
