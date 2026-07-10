@@ -2,7 +2,7 @@
 <tr>
 <td width="100%">
 
-🌌 [**亜星羅**](//athallahr.my.id) / *アタラ* / *Atala*  
+🌌 [**亜星羅**](//athallahr.web.id) / *アタラ* / *Atala*  
 🛰️ lang: `id`, `en`  
 
 _「星に想いを。」_  
