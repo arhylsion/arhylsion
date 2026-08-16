@@ -70,11 +70,7 @@ def update_readme():
     filtered_languages.sort(key=lambda x: x.get("total_seconds", 0), reverse=True)
     
     days_active = get_days_active()
-    header_art = f"""  _         _         _           _               -----------------------
- / \\   _ __| |__ _  _| |___ ___  (_)___ _ _       Hi, Visitor 
-/ _ \\ | '_/| '_ \\ || | (_-<___|  | |/ _ \\ ' \\     Day: {days_active}
-\\_/ \\_\\|_|  |_||_/\\_, |_/__/      |_\\___/_||_|    Lang: ID/EN
-                  |__/                            Time: GMT+7"""
+    header_art = f"Day: {days_active}"
 
     waka_stats = ""
     for lang in filtered_languages[:5]:
