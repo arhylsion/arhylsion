@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     63 hrs 59 mins        █████▖░░░░░░░░░░░░░░░░░░░   21.43 %
-TypeScript                 28 hrs 46 mins        ██▚░░░░░░░░░░░░░░░░░░░░░░   09.63 %
-Astro                      28 hrs 34 mins        ██▚░░░░░░░░░░░░░░░░░░░░░░   09.57 %
-PHP                        27 hrs 29 mins        ██▖░░░░░░░░░░░░░░░░░░░░░░   09.21 %
-JavaScript                 23 hrs 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+Python                     63 hrs 59 mins        █████▖░░░░░░░░░░░░░░░░░░░   21.29 %
+TypeScript                 28 hrs 47 mins        ██▚░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+Astro                      28 hrs 34 mins        ██▚░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+PHP                        28 hrs 3 mins         ██▖░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+JavaScript                 24 hrs 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
 ```
 
 <!--END_SECTION:waka-->
