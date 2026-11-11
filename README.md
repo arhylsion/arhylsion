@@ -12,5 +12,5 @@ Astro                      28 hrs 34 mins        ██░░░░░░░░�
 
 ---
 
-chit-chat to my persona =->
+feel free to chit-chat =->
 <a href="https://github.com/arhylsion/arhylsion/issues/new">start</a>
