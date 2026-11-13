@@ -11,6 +11,3 @@ Astro                      28 hrs 34 mins        ██░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
-
-feel free to chit-chat =->
-<a href="https://github.com/arhylsion/arhylsion/issues/new">start</a>
