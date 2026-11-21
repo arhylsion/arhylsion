@@ -16,7 +16,7 @@ jobs:
 
       - name: Generate Animated Heatmap Cards
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.HT_TOKEN }}
         run: |
           curl -sSL -O https://raw.githubusercontent.com/arhylsion/ghgraph/main/ghgraph.py
           python3 ghgraph.py --card --username ${{ github.repository_owner }} --theme both --anim rhythm --output assets/
