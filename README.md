@@ -1,19 +1,13 @@
-<!--START_SECTION:waka-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ghgraph-waka-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/ghgraph-waka-light.svg">
+  <img alt="username's WakaTime Metrics" src="assets/ghgraph-waka-dark.svg" width="100%">
+</picture>
 
-```txt
-Python                     63 hrs 57 mins        █████▜░░░░░░░░░░░░░░░░░░░   22.54 %
-PHP                        27 hrs 29 mins        ██▚░░░░░░░░░░░░░░░░░░░░░░   09.69 %
-Astro                      25 hrs 30 mins        ██▖░░░░░░░░░░░░░░░░░░░░░░   08.99 %
-TypeScript                 25 hrs 11 mins        ██▖░░░░░░░░░░░░░░░░░░░░░░   08.88 %
-Markdown                   21 hrs 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
-```
+<br>
 
-<!--END_SECTION:waka-->
-
-<a href="https://arhylsion.github.io/ghgraph/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/ghgraph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/ghgraph-light.svg">
-    <img alt="arhylsion's Contribution Heatmap" src="assets/ghgraph-dark.svg" width="100%">
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ghgraph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/ghgraph-light.svg">
+  <img alt="username's Contribution Heatmap" src="assets/ghgraph-dark.svg" width="100%">
+</picture>
