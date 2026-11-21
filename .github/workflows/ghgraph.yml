@@ -19,7 +19,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.HT_TOKEN }}
         run: |
           curl -sSL -O https://raw.githubusercontent.com/arhylsion/ghgraph/main/ghgraph.py
-          python3 ghgraph.py --card --username ${{ github.repository_owner }} --theme both --anim ripple --public --output assets/
+          python3 ghgraph.py --card --username ${{ github.repository_owner }} --theme both --anim rhythm --public --output assets/
           rm -f ghgraph.py
 
       - name: Commit and push changes
